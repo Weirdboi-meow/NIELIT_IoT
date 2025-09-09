@@ -1,6 +1,6 @@
 # NIELIT IoT
 
-Welcome to the NIELIT_IoT repository! This project contains resources, code, and documentation related to IoT (Internet of Things) coursework and experiments conducted at NIELIT.
+Welcome Guys!! to the NIELIT_IoT repository! This project contains resources, code, and documentation related to IoT (Internet of Things) coursework and experiments conducted at NIELIT.
 
 
 
